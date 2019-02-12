@@ -8,6 +8,6 @@ namespace StrResApi.Controllers
     {
         // GET api/version
         [HttpGet]
-        public string Get() => JsonConvert.SerializeObject(new { version = "20190212.4" });
+        public string Get() => JsonConvert.SerializeObject(new { version = "20190212.5" });
     }
 }
