@@ -100,7 +100,7 @@ Before running the tests, the following environment variables must be defined:
 
 * STRRES_ADMIN_TOKEN: The admin's access token.
 
-Note that the code defines defaults appropriate for local development.
+Note that the test code itself defines defaults appropriate for local development.
 
 Once the environment variables are properly defined, execute the following command from the StrResTest project folder:
 
